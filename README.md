@@ -6,6 +6,7 @@
 I'm a Full Stack Developer and 4th year Computer Science Student at Ontario Tech University.
 ### What I'm Up To
 - 🔭 Currently working on exciting web development projects
+-  I Like to participate in hackathons and coding competitions
 - 🌱 Learning advanced machine learning techniques
 - 👯 Looking to collaborate on innovative open-source projects
 - 💬 Ask me about web development, ML, or anything tech-related!
@@ -29,12 +30,15 @@ I'm a Full Stack Developer and 4th year Computer Science Student at Ontario Tech
 ### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karanjot-gaidu&layout=donut&bg_color=a1a1a1&title_color=000000&text_color=000000&icon_color=ffffff&custom_title=My%20Top%20Languages&text_bold=true&hide=jupyter%20notebook,cmake)
 </div>
+
+</div>
+
 </div>
 
 ### Connect With Me
 <p>
-  <a href="https://linkedin.com/in/karanjot-gaidu"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/karanjot-gaidu"><img src="https://img.shields.io/badge/-GitHub-00acee?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/karanjot-gaidu"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" height="30"></a>
+  <a href="https://github.com/karanjot-gaidu"><img src="https://img.shields.io/badge/-GitHub-00acee?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub" height="30"></a>
 </p>
 
 <!--
