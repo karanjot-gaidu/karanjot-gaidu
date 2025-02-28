@@ -1,6 +1,8 @@
 ## Hi there, I'm Karanjot Gaidu <img src="./hand-waving-hand.gif" style="width: 20px; height: 20px;">
 
+<div style="border: 1px solid #000; border-radius: 50%;">
 <img align="right" src="https://avatars.githubusercontent.com/u/90838376?v=4" alt="Profile Banner" width="100" height="100" style="margin-left: 20px; border-radius: 50%;">
+</div>
 
 ### About Me  
 I'm a **Full Stack Developer** and a **4th-year Computer Science Student at Ontario Tech University**.  
