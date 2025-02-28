@@ -30,7 +30,7 @@ Currently, I'm a **Software Engineering Resident at Headstarter**, where I build
 
 
 ### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karanjot-gaidu&layout=donut&theme=transparent&border_color=000000&bg_color=000000&custom_title=My%20Top%20Languages&text_bold=true&hide=jupyter%20notebook,cmake)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karanjot-gaidu&layout=donut&theme=transparent&custom_title=My%20Top%20Languages&text_bold=true&hide=jupyter%20notebook,cmake)
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karanjot-gaidu&layout=donut&bg_color=a1a1a1&title_color=000000&text_color=000000&icon_color=ffffff&custom_title=My%20Top%20Languages&text_bold=true&hide=jupyter%20notebook,cmake) -->
 
 
