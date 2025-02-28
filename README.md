@@ -25,12 +25,12 @@ Currently, I'm a **Software Engineering Resident at Headstarter**, where I build
 
 
 ### Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karanjot-gaidu&theme=tokyonight&rank_icon=github&border_color=000000&bg_color=000000&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karanjot-gaidu&theme=transparent&rank_icon=github&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Stats)
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karanjot-gaidu&show_icons=true&bg_color=a1a1a1&title_color=000000&text_color=000000&icon_color=ffffff&rank_icon=github&include_all_commits=true&count_private=true&custom_title=My%20GitHub%20Stats) -->
 
 
 ### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karanjot-gaidu&layout=donut&theme=tokyonight&border_color=000000&bg_color=000000&custom_title=My%20Top%20Languages&text_bold=true&hide=jupyter%20notebook,cmake)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karanjot-gaidu&layout=donut&theme=transparent&border_color=000000&bg_color=000000&custom_title=My%20Top%20Languages&text_bold=true&hide=jupyter%20notebook,cmake)
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karanjot-gaidu&layout=donut&bg_color=a1a1a1&title_color=000000&text_color=000000&icon_color=ffffff&custom_title=My%20Top%20Languages&text_bold=true&hide=jupyter%20notebook,cmake) -->
 
 
