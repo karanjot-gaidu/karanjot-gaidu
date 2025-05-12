@@ -18,7 +18,7 @@ Currently, I'm a **Software Engineering Resident at Headstarter**, where I build
 ### Skills  
 - **Languages:** Python, JavaScript, TypeScript, Java, C++  
 - **Frontend:** React, Next.js, HTML5, CSS3, Vite.js, Flutter  
-- **Backend:** Node.js, Django, Spring Boot, Express, Next.js API routes  
+- **Backend:** Node.js, Flask, Django, Spring Boot, Express, Next.js API routes  
 - **Database:** PostgreSQL (Neon), Firebase Firestore, MySQL  
 - **AI/ML:** TensorFlow, PyTorch, Stability AI, Google Generative AI  
 - **Tools:** Git, Vercel, AWS, Modal, Clerk, jQuery AJAX  
