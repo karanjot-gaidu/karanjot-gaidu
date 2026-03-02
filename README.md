@@ -24,9 +24,9 @@ I care about:
 
 ---
 
-## 🚀 What I Work On
+## 🚀 What I'm Working On
 
-- 🌍 Employment and international hiring platforms  
+- 🌍 Employment and international hiring platform  
 - 🔐 Authentication & role-based access systems  
 - 📊 Data-driven dashboards & backend APIs  
 - ⚡ Full-stack apps using modern web technologies  
@@ -61,7 +61,6 @@ I care about:
   <img src="https://skillicons.dev/icons?i=git,aws,vercel" />
 </p>
 
----
 <!--
 ## 📊 GitHub Stats
  
