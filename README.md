@@ -77,8 +77,3 @@ I care about:
   <img src="https://streak-stats.demolab.com?user=karanjot-gaidu&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-<p align="center">
-  Focused on building systems that solve real problems — not just demos.
-</p>
